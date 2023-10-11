@@ -1,0 +1,6 @@
+[submodule "scheduler-frontend"]
+	path = scheduler-frontend
+	url = https://github.com/adamgil43/scheduler-frontend.git
+[submodule "scheduler-backend"]
+	path = scheduler-backend
+	url = https://github.com/adamgil43/scheduler-backend.git
